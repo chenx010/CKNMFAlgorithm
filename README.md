@@ -6,6 +6,8 @@ It contains comparisons with other algorithms.
 
 use examples by 3 steps:
 
-step1: run main_test.m   % This is the main test file used to record the classification results of each algorithm
+step1: run maintest.m   % This is the main test file used to record the classification results of each algorithm
+
 step2: run Plotacc.m      % Visualize classification results
+
 step3: run Plotdata.m    % Visualize CMC
