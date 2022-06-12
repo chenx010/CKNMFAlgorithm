@@ -2,7 +2,7 @@
 Introduction:
 
 This is a combination kernel based non-negative matrix factorization algorithm applied to face recognition.
-It contains comparisons with other algorithms.We run it on Matlab2019a.
+It contains comparisons with other algorithms.We run it on Matlab R2019a.
 
 use examples by 3 steps:
 
